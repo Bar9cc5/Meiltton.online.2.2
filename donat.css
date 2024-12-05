@@ -1,0 +1,116 @@
+body {
+    background: url('1s.jpg') no-repeat center center fixed; /* Фон с изображением */
+    background-image: 100%;
+    background-size: cover;
+}
+
+.container {
+    margin: 0 166px;
+}
+
+.historlty-tilte {
+    font-family: "Oswald", sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+    top: 30px;
+    width: 1250;
+    position: relative;
+    text-align: center;
+    color: rgb(61, 122, 255);
+    padding: 5px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgba(167, 167, 167, 0.24);
+}
+
+.header img {
+    float: left;
+    width: 75px;
+    height: 75px;
+    background: rgba(167, 167, 167, 0.24);
+    padding: 5px;
+    border-radius: 15px;
+  }
+  .header h1 {
+    font-family: "Oswald", sans-serif;
+    position: relative;
+    top: 40px;
+    left: 10px;
+  }
+
+  .history-desc {
+    color: #fff;
+    font-weight: 444;
+    margin-top: 50px;
+    font-family: "Oswald", sans-serif;
+    font-size: 15px;
+    width: 444px;
+    padding: 15px;
+    text-align: center;
+    position: relative;
+    background-color: rgba(167, 167, 167, 0.24);
+    border-radius: 15px;
+}
+
+.donatalers {
+    margin: 0px 380px;
+    font-family: "Oswald", sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    top: 35px;
+    width: 400px;
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 12px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(61, 122, 255);
+    cursor: pointer;
+}
+
+.images-1b{
+    position: absolute;
+    z-index: auto;
+    margin-top: -326px;
+    left: 800px;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 15px;
+}
+
+.h3 {
+    color: rgb(61, 122, 255);
+    width: 400px;
+    font-family: "Oswald", sans-serif;
+    position: absolute;
+    z-index: auto;
+    margin-top: -85px;
+    left: 905px;
+}
+
+.styles1 {
+    margin: 0px 170px;
+    font-family: "Oswald", sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    top: 0px;
+    width: 400px;
+    position: relative;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    padding: 12px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(61, 122, 255);
+    cursor: pointer;
+  }
+  
+  .text {
+    font-family: "Oswald", sans-serif;
+    color: #fff;
+  }
+  
+
